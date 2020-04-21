@@ -2,8 +2,7 @@
 
 # # 7 Tools Spam Sms
 
-![Screenshot_2020-04-21-20-19-31-15](https://filebin.net/jiof0sa1j7309nwr/Screenshot_2020-04-21-20-19-31-15.png)
-
+![Screenshot_2020-04-21-20-19-31-15] 
 ```
 
 Indonesia :
@@ -28,33 +27,21 @@ Termux :
 
 $ pkg install git
 
-$ pkg install python2
-
-$ pip2 install requests
-
-$ pip2 install mechanize
-
 $ git clone https://github.com/Anonymous3-SIT/SpamSms
 
-$ cd SpamSms
+$ cd Tebas
 
-$ python2 Spam.py
+$ sh Tebas.sh
 
 Kali Linux :
 
 $ sudo apt-get install git
 
-$ sudo apt install python-pip
+$ git clone https://github.com/Anonymous3-SIT/Tebas
 
-$ pip2 install mechanize
+$ cd Tebas
 
-$ pip2 install requests
-
-$ git clone https://github.com/Anonymous3-SIT/SpamSms
-
-$ cd SpamSms
-
-$ python2 Spam.py
+$ sh Tebas.sh
 
 ```
 
@@ -71,12 +58,3 @@ WhatsApp : 08999271792
 Email    : anonymoussit36@gmail.com
 
 ```
-
-
-#INSTALLASION
-- pkg update && pkg upgrade
-- pkg install git
-- git clone https://github.com/Anonymous3-SIT/Tebas
-- cd Tebas
-- ls
-- sh Tebas.sh
