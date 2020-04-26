@@ -7,7 +7,7 @@
 
 Indonesia :
 
-Kode Ini Di Buat Untuk Menjahili Teman Kalian Yang Sedang Asik Mabar 🤣
+Kode Ini Di Buat Untuk Mendeface website secara masal
 
 ```
 
@@ -15,7 +15,7 @@ Kode Ini Di Buat Untuk Menjahili Teman Kalian Yang Sedang Asik Mabar 🤣
 
 Inggris : 
 
-This Code Is Made To Judge Your Friends Who Are Playing The Game 🤣
+This Code Is Created To Deface websites en masse
 
 ```
 
@@ -27,7 +27,7 @@ Termux :
 
 $ pkg install git
 
-$ git clone https://github.com/Anonymous3-SIT/SpamSms
+$ git clone https://github.com/Anonymous3-SIT/Tebas
 
 $ cd Tebas
 
